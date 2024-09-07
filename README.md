@@ -1,3 +1,4 @@
+
 - 👋 Hi, I’m @ajxajalah
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -11,3 +12,4 @@ ajxajalah/ajxajalah is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 git clone [URL_REPO_GITHUB]
+README.md
